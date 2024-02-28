@@ -60,6 +60,16 @@
         <type>Hierarchy</type>
     </fields>
     <fields>
+        <fullName>Pass__c</fullName>
+        <externalId>false</externalId>
+        <label>Pass</label>
+        <length>23</length>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Phone</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
