@@ -20,6 +20,15 @@
         <fullName>Description</fullName>
     </fields>
     <fields>
+        <fullName>Dev1__c</fullName>
+        <externalId>false</externalId>
+        <label>Dev1</label>
+        <length>18</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>EndDate</fullName>
     </fields>
     <fields>
