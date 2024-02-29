@@ -3,9 +3,17 @@
     <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Account.Dev2__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Campaign.Dev1__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <layoutAssignments>
+        <layout>Account-Formato de cuentas</layout>
+    </layoutAssignments>
     <layoutAssignments>
         <layout>Campaign-Formato de campañas</layout>
     </layoutAssignments>
