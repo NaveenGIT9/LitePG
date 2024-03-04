@@ -73,6 +73,15 @@
         <type>Lookup</type>
     </fields>
     <fields>
+        <fullName>Rado__c</fullName>
+        <externalId>false</externalId>
+        <label>Rado</label>
+        <length>23</length>
+        <required>false</required>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>StartDate</fullName>
     </fields>
     <fields>
